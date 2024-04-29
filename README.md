@@ -2,6 +2,10 @@
 <body>
 <div class="dark:bg-black">
 
+</div>
+</body>
+</html>
+
 # Summer Semester
 ![Profile picture of Benjamín Haverla](Photos/Profile.png)
 
@@ -15,6 +19,3 @@
 
 [![Benjamín Haverla – black and white profile picture](Photos/Intro_2.png)](02-bachelor-thesis)
 
-</div>
-</body>
-</html>
