@@ -19,3 +19,5 @@
 
 [![Benjamín Haverla – black and white profile picture](Photos/Intro_2.png)](02-bachelor-thesis)
 
+[![Benjamin video and behind him is green screen](Photos/S_8.png)](https://drive.google.com/file/d/1sHr-lnof_lUobOJ6rtM9xT7brW-R36ub/view?usp=share_link)
+
