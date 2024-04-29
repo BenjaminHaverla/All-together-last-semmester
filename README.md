@@ -1,11 +1,3 @@
-<html class= "dark">
-<body>
-<div class="dark:bg-black">
-
-</div>
-</body>
-</html>
-
 # Summer Semester
 ![Profile picture of Benjamín Haverla](Photos/Profile.png)
 
