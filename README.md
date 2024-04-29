@@ -7,6 +7,6 @@
 
 [![Sketched Benjamin – going into building](Photos/P_video.png)](https://drive.google.com/file/d/1xb3BgfflX3RLkeS3FFgyVgtPNcVuSpsg/view?usp=share_link)
 
-# The Story of Bachelor's Thesis Journey
+# [The Story of Bachelor's Thesis Journey]()
 
 ![Benjamín Haverla – black and white profile picture](Photos/Intro_2.png)
