@@ -9,4 +9,4 @@
 
 # The Story of Bachelor's Thesis Journey
 
-![Benjamín Haverla – black and white profile picture](Photos/ME.png)
+![Benjamín Haverla – black and white profile picture](Photos/Intro_2.png)
