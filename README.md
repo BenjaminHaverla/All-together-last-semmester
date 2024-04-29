@@ -1,3 +1,11 @@
+/* Dark mode styles */
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+/* Add more styles as needed to match your design */
+
 # Summer Semester
 ![Profile picture of Benjamín Haverla](Photos/Profile.png)
 
