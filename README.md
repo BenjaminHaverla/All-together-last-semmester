@@ -1,10 +1,6 @@
-/* Dark mode styles */
-body {
-    background-color: #121212;
-    color: #ffffff;
-}
-
-/* Add more styles as needed to match your design */
+<html class= "dark">
+<body>
+<div class="dark:bg-black">
 
 # Summer Semester
 ![Profile picture of Benjamín Haverla](Photos/Profile.png)
@@ -18,3 +14,7 @@ body {
 # The Story of Bachelor's Thesis Journey
 
 ![Benjamín Haverla – black and white profile picture](Photos/Intro_2.png)
+
+</div>
+</body>
+</html>
